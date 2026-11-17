@@ -2,6 +2,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yrs3nvbvcejfdr5snf55i2vjma&cover_image=true&theme=natemoo-re&show_offline=true&background_color=30478d&interchange=true&profanity=false&hide_remaster=false&bar_color=85c1d5&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yrs3nvbvcejfdr5snf55i2vjma&redirect=true)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=CBF6F7&width=435&lines=Hi+guys%2C+small+announcement+here;The+readme+is+going+to+change%2C+its+still+wip;Atabook+is+okay+now%2C+pls+sign+ata+to+get+cookies;Also+plz+bmf+to+get+mentioned+in+my+oomfs+list!;Btw%2C+bye%2C+have+a+nice+day!!+%5E_%5E)](https://git.io/typing-svg)
+
 <br>
 
 <img src="https://media.tenor.com/_gO4axurVs8AAAAj/nullscape-mart-water-imp.gif" width="300"/>
@@ -54,7 +56,5 @@
 <img src="https://camo.githubusercontent.com/e34e64bd477605db73c878ece430baefba4549ba6b92068671ab99771fd8f8ed/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64656565366134393565343337373037656539376663656531633230373565652f366561626538636435336133653230622d30362f733132383078313932302f393262393336663731306635363536326464383338653439363963316131393534333165313165302e67696676" width="600"/>
 
 <br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=School+bell&pause=1000&color=FFFFFF&width=500&lines=Hi%E2%80%A6id+liek+to+tell+you+smth;This+reponsitory+is+still+wip;and+the+ata+link+is+now+for+read+only;Hope+yall+understand+and+wait+for+it+%3A.%28;Im+so+busy+with+my+exams+X+P%E2%80%A6)](https://git.io/typing-svg)
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan&label=ace%20notes&labelColor=%23f5f7fa&countColor=%238ea2bf" /></a>
